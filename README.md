@@ -136,7 +136,7 @@ something about js that you should know or want to know
 - [ ] 读懂 ECMAScript 规格
 
 
-##交流（QQ群）
+## 交流（QQ群）
 
 前端技术杂谈:604953717
 
