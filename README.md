@@ -1,5 +1,5 @@
 # YOU-SHOULD-KNOW-JS
-something about js that you should know
+something about js that you should know or want to know
 
 
 ##### | javascript知识杂碎
