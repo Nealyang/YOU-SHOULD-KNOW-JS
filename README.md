@@ -2,7 +2,7 @@
 something about js that you should know or want to know
 
 
-##### | javascript知识杂碎
+#### | javascript知识杂碎
 
 - you-should-know:函数才是根基
 
@@ -28,7 +28,7 @@ something about js that you should know or want to know
 
 
 
-##### | javascript数据结构和算法
+#### | javascript数据结构和算法
 
 - [x] 数组
 - [ ] 列表
@@ -47,7 +47,7 @@ something about js that you should know or want to know
 - [ ] 高级算法
 
 
-##### | javascript设计模式
+#### | javascript设计模式
 
 - [ ] 面向对象
     ###### | 创建型设计模式
@@ -95,7 +95,7 @@ something about js that you should know or want to know
 - [ ] MVVM模式
 
 
-##### | javascript高级
+#### | javascript高级
 
 - [ ] 基本格式化
 - [ ] 注释
@@ -112,7 +112,7 @@ something about js that you should know or want to know
 - [ ] 文件和目录结构
 
 
-##### | 是的，我也搞了ES6
+#### | 是的，我也搞了ES6
 
 - [ ] let、const命令
 - [ ] 变量的解构赋值
@@ -135,4 +135,18 @@ something about js that you should know or want to know
 - [ ] .编程风格
 - [ ] 读懂 ECMAScript 规格
 
+
+##交流（QQ群）
+
+前端技术杂谈:604953717
+
+React技术栈：398240621
+
+nodejs技术1群：209530601
+
+## Donation
+
+If you find this project useful, you can buy me a cup of coffee
+
+<img src=''>
 
