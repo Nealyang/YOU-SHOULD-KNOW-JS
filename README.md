@@ -112,7 +112,7 @@ something about js that you should know
 - [ ] 文件和目录结构
 
 
-##### | 是的，我也在喜欢ES6
+##### | 是的，我也搞了ES6
 
 - [ ] let、const命令
 - [ ] 变量的解构赋值
