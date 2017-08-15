@@ -148,5 +148,5 @@ nodejs技术1群：209530601
 
 If you find this project useful, you can buy me a cup of coffee
 
-<img src=''>
+<img src='https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/img/pay/pay.png'>
 
