@@ -6,7 +6,7 @@ something about js that you should know or want to know
 
 - you-should-know:函数才是根基
 
-- you-should-know:非常头疼也非常简答的this
+- you-should-know:非常头疼也非常简单的this
 
 - you-should-know:谈谈闭包
 
@@ -138,7 +138,7 @@ something about js that you should know or want to know
 
 ## 交流（QQ群）
 
-前端技术杂谈:604953717
+前端技术杂谈: 604953717
 
 React技术栈：398240621
 
