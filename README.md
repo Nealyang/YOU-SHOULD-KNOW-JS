@@ -1,8 +1,12 @@
 # YOU-SHOULD-KNOW-JS
 something about js that you should know or want to know
 
+#### | 夯实JS
 
-#### | javascript知识杂碎
+- [x] [夯实JS系列--变量、作用域和内存问题](./doc/basic_js/夯实JS系列--变量、作用域和内存问题.md)
+
+
+#### | javascript重点总结
 
 - you-should-know:函数才是根基
 
