@@ -1,12 +1,12 @@
 # YOU-SHOULD-KNOW-JS
 something about js that you should know or want to know
 
-#### | 夯实JS
-
-- [x] [夯实JS系列--变量、作用域和内存问题](./doc/basic_js/夯实JS系列--变量、作用域和内存问题.md)
-
 
 #### | javascript重点总结
+
+- you-should-know:[变量、作用域和内存问题(./doc/basic_js/夯实JS系列--变量、作用域和内存问题.md)
+
+- you-should-know:[面向***对象***最全总结](./doc/basic_js/prototype-based.md)
 
 - you-should-know:函数才是根基
 
@@ -34,7 +34,6 @@ something about js that you should know or want to know
 
 #### | javascript数据结构和算法
 
-- [x] 数组
 - [ ] 列表
 - [ ] 栈
 - [ ] 队列
