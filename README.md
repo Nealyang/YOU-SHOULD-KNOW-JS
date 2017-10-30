@@ -8,6 +8,8 @@ something about js that you should know or want to know
 
 - you-should-know:[面向对象最全总结](./doc/basic_js/prototype-based.md)
 
+- you-should-know:[忍者级别的操作函数](./doc/basic_js/prototype-based.md)
+
 - you-should-know:函数才是根基
 
 - you-should-know:非常头疼也非常简单的this
