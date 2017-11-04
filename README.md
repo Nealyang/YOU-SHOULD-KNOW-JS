@@ -10,11 +10,9 @@ something about js that you should know or want to know
 
 - you-should-know:[忍者级别的操作函数](./doc/basic_js/忍者级别的操作函数.md)
 
-- you-should-know:函数才是根基
+- you-should-know:[谈谈闭包](./doc/basic_js/谈谈闭包.md)
 
 - you-should-know:非常头疼也非常简单的this
-
-- you-should-know:谈谈闭包
 
 - you-should-know:谈谈作用域
 
