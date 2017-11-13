@@ -12,7 +12,7 @@ something about js that you should know or want to know
 
 - you-should-know:[谈谈闭包](./doc/basic_js/谈谈闭包.md)
 
-- you-should-know:非常头疼也非常简单的this
+- you-should-know:[非常头疼也非常简单的this](./doc/basic_js/彻底明白this指向.md)
 
 - you-should-know:谈谈作用域
 
