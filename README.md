@@ -54,7 +54,7 @@ something about js that you should know or want to know
 
 - [ ] 面向对象
     ###### | 创建型设计模式
-- [ ] 简单工厂模式
+- [x] [简单工厂模式](./doc/design%20mode/简单工厂设计模式.md)
 - [ ] 工厂方法模式
 - [ ] 抽象工厂模式
 - [ ] 建造者模式
