@@ -52,7 +52,7 @@ something about js that you should know or want to know
 
 #### | javascript设计模式
 
-- [ ] 面向对象
+- [x] [面向对象](./doc/design%20mode/面向对象.md)
     ###### | 创建型设计模式
 - [x] [简单工厂模式](./doc/design%20mode/简单工厂设计模式.md)
 - [ ] 工厂方法模式
