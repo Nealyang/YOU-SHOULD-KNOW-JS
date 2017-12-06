@@ -16,9 +16,9 @@ something about js that you should know or want to know
 
 - you-should-know:[非常头疼也非常简单的this](./doc/basic_js/彻底明白this指向.md)
 
-- you-should-know:谈谈作用域
+- you-should-know:[原型与原型链](./doc/basic_js/原型和原型链.md)
 
-- you-should-know:原型与面向对象
+- you-should-know:谈谈作用域
 
 - you-should-know:JavaScript中的不老事件
 
