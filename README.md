@@ -35,21 +35,16 @@ something about js that you should know or want to know
 
 
 #### | javascript数据结构和算法
-- [x] [数组](./doc/dataStructure/array/array.md)
-- [ ] 列表
-- [ ] 栈
+- [x] [数组](doc/dataStructure/array.md)
+- [x] [栈](doc/dataStructure/stack.md)
 - [ ] 队列
 - [ ] 链表
-- [ ] 字典
-- [ ] 散列
 - [ ] 集合
+- [ ] 字典和散列表
+- [ ] 树
+- [ ] 图
 
-
-- [ ] 二叉树和二叉查找树
-- [ ] 图和图算法
-- [ ] 排序算法
-- [ ] 检索算法
-- [ ] 高级算法
+- [ ] 排序和搜索算法
 
 
 #### | javascript设计模式
@@ -99,22 +94,6 @@ something about js that you should know or want to know
 - [ ] MVP模式
 - [ ] MVVM模式
 
-
-#### | javascript高级
-
-- [ ] 基本格式化
-- [ ] 注释
-- [ ] 语句和表达式
-- [ ] 变量函数和运算符
-- [ ] UI层的松耦合
-- [ ] 避免使用全局变量
-- [ ] 事件处理
-- [ ] 避免“空比较”
-- [ ] 将配置数据从代码中分离出来
-- [ ] 抛出自定义错误
-- [ ] 不是你的对象不要动
-- [ ] 浏览器嗅探
-- [ ] 文件和目录结构
 
 
 #### | 是的，我也搞了ES6
