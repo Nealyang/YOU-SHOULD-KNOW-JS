@@ -18,7 +18,7 @@ something about js that you should know or want to know
 
 - you-should-know:[原型与原型链](./doc/basic_js/原型和原型链.md)
 
-- you-should-know:谈谈作用域
+- you-should-know:[JavaScript中的执行上下文和变量对象](./doc/basic_js/JavaScript中的执行上下文和变量对象.md)
 
 - you-should-know:JavaScript中的不老事件
 
