@@ -5,34 +5,19 @@ something about js that you should know or want to know
 #### | javascript重点总结
 
 - you-should-know:[编写高质量代码基本要点](./doc/basic_js/编写高质量代码基本要点.md)
-
 - you-should-know:[变量、作用域和内存问题](./doc/basic_js/夯实JS系列--变量、作用域和内存问题.md)
-
 - you-should-know:[面向对象最全总结](./doc/basic_js/prototype-based.md)
-
 - you-should-know:[忍者级别的操作函数](./doc/basic_js/忍者级别的操作函数.md)
-
 - you-should-know:[谈谈闭包](./doc/basic_js/谈谈闭包.md)
-
 - you-should-know:[非常头疼也非常简单的this](./doc/basic_js/彻底明白this指向.md)
-
 - you-should-know:[原型与原型链](./doc/basic_js/原型和原型链.md)
-
 - you-should-know:[JavaScript中的执行上下文和变量对象](./doc/basic_js/JavaScript中的执行上下文和变量对象.md)
-
 - you-should-know:JavaScript中的不老事件
-
 - you-should-know:关于DOM操作
-
 - you-should-know:解析JavaScript中的对象
-
 - you-should-know:解析JavaScript中的行为委托
-
 - you-should-know:JavaScript中的跨域总结
-
 - you-should-know:别忘记了AJAX
-
-
 
 #### | javascript数据结构和算法
 - [x] [数组](doc/dataStructure/array.md)
