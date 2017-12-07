@@ -35,7 +35,7 @@ something about js that you should know or want to know
 
 
 #### | javascript数据结构和算法
-
+- [x] [数组](./doc/dataStructure/array/array.md)
 - [ ] 列表
 - [ ] 栈
 - [ ] 队列
