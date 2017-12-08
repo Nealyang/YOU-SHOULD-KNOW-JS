@@ -9,7 +9,7 @@ something about js that you should know or want to know
 - you-should-know:[面向对象最全总结](./doc/basic_js/prototype-based.md)
 - you-should-know:[忍者级别的操作函数](./doc/basic_js/忍者级别的操作函数.md)
 - you-should-know:[谈谈闭包](./doc/basic_js/谈谈闭包.md)
-- you-should-know:[非常头疼也非常简单的this](./doc/basic_js/彻底明白this指向.md)
+- you-should-know:[This is this](./doc/basic_js/彻底明白this指向.md)
 - you-should-know:[原型与原型链](./doc/basic_js/原型和原型链.md)
 - you-should-know:[JavaScript中的执行上下文和变量对象](./doc/basic_js/JavaScript中的执行上下文和变量对象.md)
 - you-should-know:JavaScript中的不老事件
@@ -86,7 +86,6 @@ something about js that you should know or want to know
 - [ ] let、const命令
 - [ ] 变量的解构赋值
 - [ ] 字符串的扩展
-- [ ] 正则的扩展
 - [ ] 数值的扩展
 - [ ] 数组的扩展
 - [ ] 函数的扩展
@@ -112,10 +111,4 @@ something about js that you should know or want to know
 React技术栈：398240621
 
 nodejs技术1群：209530601
-
-## Donation
-
-If you find this project useful, you can buy me a cup of coffee
-
-<img src='https://github.com/Nealyang/YOU-SHOULD-KNOW-JS/blob/master/img/pay/pay.png'>
 
