@@ -1,5 +1,8 @@
 # 不就是跨域么。。。慌个xx
+
 > 前端开发中，跨域使我们经常遇到的一个问题，也是面试中经常被问到的一些问题，所以，这里，我们做个总结。小小问题，不足担心
+
+原文地址：[YOU-SHOULD-KNOW-JS](https://github.com/Nealyang/YOU-SHOULD-KNOW-JS)
 
 ## 什么是跨域
 
