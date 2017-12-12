@@ -121,7 +121,7 @@ a.nealyang.cn 下有一个test.html文件
     <script type="text/javascript">
         $(function(){
             try{
-                document.domain = "huhu.com"
+                document.domain = "nealyang.com"
             }catch(e){}
         })
     </script>
