@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="单例模式.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/design mode/单例模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="242">
+                <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+                <folding>
+                  <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
+                  <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
+                  <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
+                  <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
+                  <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="544">
+                <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>constructor</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/doc/basic_js/prototype-based.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/彻底明白this指向.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/面向对象.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/编写高质量代码基本要点.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/原型和原型链.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/JavaScript中的执行上下文和变量对象.md" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/array/array.md" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/stack.md" />
+        <option value="$PROJECT_DIR$/doc/es6/let、const命令.md" />
+        <option value="$PROJECT_DIR$/doc/basic_js/JavaScript中的跨域总结.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/简单工厂设计模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/工厂方法模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/抽象工厂模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/建造者模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/原型模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/单例模式.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="basic_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+              <item name="design mode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v7.9.0/bin/node" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc/dataStructure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/img/pay" />
+      <recent name="$PROJECT_DIR$/doc/basic_js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="" />
+      <created>1502772089691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502772089691</updated>
+      <workItem from="1502772090981" duration="4782000" />
+      <workItem from="1503032646094" duration="1017000" />
+      <workItem from="1504077040634" duration="648000" />
+      <workItem from="1504078496654" duration="102000" />
+      <workItem from="1506350636141" duration="1450000" />
+      <workItem from="1508480852060" duration="35000" />
+      <workItem from="1508481469923" duration="178000" />
+      <workItem from="1508484757294" duration="2253000" />
+      <workItem from="1508762976255" duration="7127000" />
+      <workItem from="1509353195986" duration="555000" />
+      <workItem from="1509353891403" duration="10593000" />
+      <workItem from="1509811083029" duration="138000" />
+      <workItem from="1509811366291" duration="2507000" />
+      <workItem from="1509885969032" duration="898000" />
+      <workItem from="1509887509317" duration="6688000" />
+      <workItem from="1510584861020" duration="814000" />
+      <workItem from="1510825574883" duration="1904000" />
+      <workItem from="1512370565224" duration="11071000" />
+      <workItem from="1512468393180" duration="5676000" />
+      <workItem from="1512630430363" duration="339000" />
+      <workItem from="1512636024381" duration="6062000" />
+      <workItem from="1512712634193" duration="3293000" />
+      <workItem from="1513045512603" duration="11554000" />
+      <workItem from="1513079930476" duration="723000" />
+      <workItem from="1513167262960" duration="649000" />
+      <workItem from="1513256115419" duration="195000" />
+      <workItem from="1513304014336" duration="173000" />
+      <workItem from="1513504917539" duration="6287000" />
+      <workItem from="1513518746271" duration="58000" />
+      <workItem from="1513518841175" duration="122000" />
+      <workItem from="1513518987555" duration="3615000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1502772402115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502772402115</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1502774033898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502774033898</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1502774075782</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502774075782</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1502774162394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502774162394</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1502775219984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502775219984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1502775269629</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1502775269629</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1502775315976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502775315976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="init">
+      <created>1503032687498</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1503032687498</updated>
+    </task>
+    <task id="LOCAL-00009" summary="夯实JS">
+      <created>1506350809787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1506350809787</updated>
+    </task>
+    <task id="LOCAL-00010" summary="面向对象">
+      <created>1508768348336</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1508768348336</updated>
+    </task>
+    <task id="LOCAL-00011" summary="面向对象">
+      <created>1508896705211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1508896705211</updated>
+    </task>
+    <task id="LOCAL-00012" summary="面向对象">
+      <created>1508896952206</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1508896952206</updated>
+    </task>
+    <task id="LOCAL-00013" summary="面向对象">
+      <created>1508898398267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1508898398267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="操作函数">
+      <created>1509373243330</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509373243330</updated>
+    </task>
+    <task id="LOCAL-00015" summary="操作函数">
+      <created>1509373522227</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1509373522227</updated>
+    </task>
+    <task id="LOCAL-00016" summary="操作函数">
+      <created>1509418931340</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1509418931340</updated>
+    </task>
+    <task id="LOCAL-00017" summary="操作函数">
+      <created>1509429027574</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1509429027574</updated>
+    </task>
+    <task id="LOCAL-00018" summary="闭包">
+      <created>1509811159780</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1509811159780</updated>
+    </task>
+    <task id="LOCAL-00019" summary="闭包">
+      <created>1509937810632</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1509937810633</updated>
+    </task>
+    <task id="LOCAL-00020" summary="this">
+      <created>1510584990622</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1510584990623</updated>
+    </task>
+    <task id="LOCAL-00021" summary="简单工厂设计模式">
+      <created>1510827069851</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1510827069851</updated>
+    </task>
+    <task id="LOCAL-00022" summary="面向对象">
+      <created>1512383215338</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1512383215338</updated>
+    </task>
+    <task id="LOCAL-00023" summary="面向对象">
+      <created>1512383314938</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1512383314938</updated>
+    </task>
+    <task id="LOCAL-00024" summary="面向对象">
+      <created>1512385888627</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1512385888627</updated>
+    </task>
+    <task id="LOCAL-00025" summary="高质量代码">
+      <created>1512470936612</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1512470936612</updated>
+    </task>
+    <task id="LOCAL-00026" summary="圆形和原型链">
+      <created>1512531653354</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1512531653354</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Ec">
+      <created>1512639262257</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1512639262257</updated>
+    </task>
+    <task id="LOCAL-00028" summary="array">
+      <created>1512640642326</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1512640642326</updated>
+    </task>
+    <task id="LOCAL-00029" summary="array">
+      <created>1512641092577</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1512641092577</updated>
+    </task>
+    <task id="LOCAL-00030" summary="array">
+      <created>1512641124718</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1512641124718</updated>
+    </task>
+    <task id="LOCAL-00031" summary="array">
+      <created>1512642027073</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1512642027073</updated>
+    </task>
+    <task id="LOCAL-00032" summary="array">
+      <created>1512642089391</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1512642089391</updated>
+    </task>
+    <task id="LOCAL-00033" summary="array">
+      <created>1512642496110</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1512642496110</updated>
+    </task>
+    <task id="LOCAL-00034" summary="array">
+      <created>1512642732134</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1512642732134</updated>
+    </task>
+    <task id="LOCAL-00035" summary="array">
+      <created>1512723456660</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1512723456660</updated>
+    </task>
+    <task id="LOCAL-00036" summary="跨域">
+      <created>1513067079726</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1513067079727</updated>
+    </task>
+    <task id="LOCAL-00037" summary="跨域">
+      <created>1513067150143</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1513067150143</updated>
+    </task>
+    <task id="LOCAL-00038" summary="跨域">
+      <created>1513067381682</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1513067381682</updated>
+    </task>
+    <task id="LOCAL-00039" summary="跨域">
+      <created>1513079971080</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1513079971080</updated>
+    </task>
+    <task id="LOCAL-00040" summary="设计模式">
+      <created>1513514533723</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1513514533723</updated>
+    </task>
+    <task id="LOCAL-00041" summary="设计模式">
+      <created>1513563692956</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1513563692956</updated>
+    </task>
+    <task id="LOCAL-00042" summary="设计模式">
+      <created>1513567079195</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1513567079195</updated>
+    </task>
+    <task id="LOCAL-00043" summary="设计模式">
+      <created>1513567159594</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1513567159594</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91506000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17043847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="夯实JS" />
+    <MESSAGE value="操作函数" />
+    <MESSAGE value="闭包" />
+    <MESSAGE value="this" />
+    <MESSAGE value="简单工厂设计模式" />
+    <MESSAGE value="面向对象" />
+    <MESSAGE value="高质量代码" />
+    <MESSAGE value="圆形和原型链" />
+    <MESSAGE value="Ec" />
+    <MESSAGE value="array" />
+    <MESSAGE value="跨域" />
+    <MESSAGE value="设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/彻底明白this指向.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/夯实JS系列--变量、作用域和内存问题.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/prototype-based.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/夯实JS系列--变量、作用域和内存问题.md" />
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/prototype-based.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/夯实JS系列--变量、作用域和内存问题.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/编写高质量代码基本要点.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/彻底明白this指向.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/原型和原型链.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/JavaScript中的执行上下文和变量对象.md" />
+    <entry file="file://$PROJECT_DIR$/doc/es6/let、const命令.md" />
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/stack.md" />
+    <entry file="file://$PROJECT_DIR$/doc/basic_js/JavaScript中的跨域总结.md" />
+    <entry file="file://$PROJECT_DIR$/doc/design mode/面向对象.md" />
+    <entry file="file://$PROJECT_DIR$/doc/design mode/简单工厂设计模式.md" />
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/建造者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="935">
+            <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+            <folding>
+              <marker date="1513514040536" expanded="true" signature="383:476" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="495:635" ph="{&quot;constructor&quot;: Human...}" />
+              <marker date="1513514040536" expanded="true" signature="543:575" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="601:633" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="662:903" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="706:889" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="763:885" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="930:1338" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="974:1323" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="993:1319" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="1016:1104" ph="..." />
+              <marker date="1513514040536" expanded="true" signature="1124:1212" ph="..." />
+              <marker date="1513514040536" expanded="true" signature="1230:1313" ph="..." />
+              <marker date="1513514040536" expanded="true" signature="1396:1419" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="1464:1491" ph="{...}" />
+              <marker date="1513514040536" expanded="true" signature="1536:1652" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1513514040536" expanded="true" signature="383:476" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="495:635" ph="{&quot;constructor&quot;: Human...}" />
+            <marker date="1513514040536" expanded="true" signature="543:575" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="601:633" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="662:903" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="706:889" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="763:885" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="930:1338" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="974:1323" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="993:1319" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="1016:1104" ph="..." />
+            <marker date="1513514040536" expanded="true" signature="1124:1212" ph="..." />
+            <marker date="1513514040536" expanded="true" signature="1230:1313" ph="..." />
+            <marker date="1513514040536" expanded="true" signature="1396:1419" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="1464:1491" ph="{...}" />
+            <marker date="1513514040536" expanded="true" signature="1536:1652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/工厂方法模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-445">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
+              <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
+              <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
+            <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
+            <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/原型模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding>
+              <marker date="1513566326562" expanded="true" signature="473:649" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="579:589" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="630:640" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="705:852" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="767:785" ph="//..." />
+              <marker date="1513566326562" expanded="true" signature="818:850" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="912:1062" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1027:1060" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1455:1514" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1538:1672" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1568:1605" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1634:1670" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1726:1771" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1864:1893" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="1946:2013" ph="{...}" />
+              <marker date="1513566326562" expanded="true" signature="2104:2132" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513566326562" expanded="true" signature="473:649" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="579:589" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="630:640" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="705:852" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="767:785" ph="//..." />
+            <marker date="1513566326562" expanded="true" signature="818:850" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="912:1062" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1027:1060" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1455:1514" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1538:1672" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1568:1605" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1634:1670" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1726:1771" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1864:1893" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="1946:2013" ph="{...}" />
+            <marker date="1513566326562" expanded="true" signature="2104:2132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/抽象工厂模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-161">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1513512352989" expanded="true" signature="234:275" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="313:355" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+            <folding>
+              <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
+              <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
+              <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
+              <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
+            <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
+            <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
+            <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="544">
+            <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
