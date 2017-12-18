@@ -37,11 +37,11 @@ something about js that you should know or want to know
 - [x] [面向对象](./doc/design%20mode/面向对象.md)
     ###### | 创建型设计模式
 - [x] [简单工厂模式](./doc/design%20mode/简单工厂设计模式.md)
-- [ ] 工厂方法模式
-- [ ] 抽象工厂模式
-- [ ] 建造者模式
-- [ ] 原型模式
-- [ ] 单例模式
+- [ ] [工厂方法模式](./doc/design%20mode/工厂方法模式.md)
+- [ ] [抽象工厂模式](./doc/design%20mode/抽象工厂模式.md)
+- [ ] [建造者模式](./doc/design%20mode/建造者模式.md)
+- [ ] [原型模式](./doc/design%20mode/原型模式.md)
+- [ ] [单例模式](./doc/design%20mode/单例模式.md)
     ###### | 结构型设计模式
 - [ ] 外观模式
 - [ ] 适配器模式
