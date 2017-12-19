@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/代理模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/外观模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/装饰着模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/适配器模式.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,41 +20,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="单例模式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/design mode/单例模式.md">
+      <file leaf-file-name="装饰着模式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/design mode/装饰着模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="242">
-                <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+              <first_editor relative-caret-position="379">
+                <caret line="25" column="134" lean-forward="false" selection-start-line="25" selection-start-column="134" selection-end-line="25" selection-end-column="134" />
                 <folding>
-                  <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
-                  <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
-                  <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
-                  <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
-                  <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
+                  <marker date="1513654195289" expanded="true" signature="158:446" ph="{...}" />
+                  <marker date="1513654195289" expanded="true" signature="257:409" ph="{...}" />
+                  <marker date="1513654195289" expanded="true" signature="354:405" ph="{...}" />
+                  <marker date="1513654195289" expanded="true" signature="413:444" ph="{...}" />
                 </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="544">
-                <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -89,6 +70,10 @@
         <option value="$PROJECT_DIR$/doc/design mode/原型模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/单例模式.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/外观模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/适配器模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/代理模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/装饰着模式.md" />
       </list>
     </option>
   </component>
@@ -121,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,6 +145,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -237,7 +222,8 @@
       <workItem from="1513504917539" duration="6287000" />
       <workItem from="1513518746271" duration="58000" />
       <workItem from="1513518841175" duration="122000" />
-      <workItem from="1513518987555" duration="3615000" />
+      <workItem from="1513518987555" duration="4334000" />
+      <workItem from="1513648882286" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1502772402115</created>
@@ -544,10 +530,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91506000" />
+    <option name="totallyTimeSpent" value="94682000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17043847" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -557,7 +543,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32816902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -597,10 +583,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/彻底明白this指向.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
@@ -639,7 +621,6 @@
     <entry file="file://$PROJECT_DIR$/doc/dataStructure/stack.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/JavaScript中的跨域总结.md" />
     <entry file="file://$PROJECT_DIR$/doc/design mode/面向对象.md" />
-    <entry file="file://$PROJECT_DIR$/doc/design mode/简单工厂设计模式.md" />
     <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -657,11 +638,130 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/简单工厂设计模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="40" />
+            <folding>
+              <marker date="1513510141166" expanded="true" signature="289:475" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="415:448" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="669:691" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="715:864" ph="{&quot;constructor&quot;: Basketball...}" />
+              <marker date="1513510141166" expanded="true" signature="766:800" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="827:862" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="891:915" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="937:1096" ph="{&quot;constructor&quot;: Football...}" />
+              <marker date="1513510141166" expanded="true" signature="990:1029" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1058:1094" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1121:1154" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1174:1332" ph="{&quot;constructor&quot;: Tennis...}" />
+              <marker date="1513510141166" expanded="true" signature="1225:1263" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1292:1330" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1376:1589" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1393:1587" ph="{...}" />
+              <marker date="1513510141166" expanded="true" signature="1412:1464" ph="..." />
+              <marker date="1513510141166" expanded="true" signature="1486:1536" ph="..." />
+              <marker date="1513510141166" expanded="true" signature="1552:1583" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/工厂方法模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+            <folding>
+              <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
+              <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
+              <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
+              <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
+            <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
+            <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
+            <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/抽象工厂模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="92" />
+            <folding>
+              <marker date="1513512352989" expanded="true" signature="234:275" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="313:355" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="615:963" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="689:917" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="921:961" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1006:1030" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1062:1202" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1088:1131" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1157:1200" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1246:1270" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1302:1442" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1328:1371" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1397:1440" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1487:1513" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1547:1687" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1573:1616" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1642:1685" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1726:1773" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1837:1861" ph="{...}" />
+              <marker date="1513512352989" expanded="true" signature="1898:1922" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/doc/design mode/建造者模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="935">
-            <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <first_editor relative-caret-position="196">
+            <caret line="44" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="80" selection-end-column="3" />
             <folding>
               <marker date="1513514040536" expanded="true" signature="383:476" ph="{...}" />
               <marker date="1513514040536" expanded="true" signature="495:635" ph="{&quot;constructor&quot;: Human...}" />
@@ -708,25 +808,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/工厂方法模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/单例模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-445">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="327">
+            <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
             <folding>
-              <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
-              <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
-              <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
-              <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
+              <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
+              <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
+              <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
+              <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -736,19 +837,20 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1513510719273" expanded="true" signature="586:649" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="617:647" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="683:708" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="900:1029" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="931:978" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="982:1027" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="1074:1507" ph="{&quot;constructor&quot;: Factory...}" />
-            <marker date="1513510719273" expanded="true" signature="1128:1147" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="1182:1201" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="1228:1505" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="1285:1489" ph="{...}" />
-            <marker date="1513510719273" expanded="true" signature="1554:1680" ph="[...]" />
-            <marker date="1513510719273" expanded="true" signature="1734:1780" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
+            <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
+            <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
+            <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
+            <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -756,8 +858,8 @@
     <entry file="file://$PROJECT_DIR$/doc/design mode/原型模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="96" selection-end-column="3" />
             <folding>
               <marker date="1513566326562" expanded="true" signature="473:649" ph="{...}" />
               <marker date="1513566326562" expanded="true" signature="579:589" ph="{...}" />
@@ -804,73 +906,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/抽象工厂模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/外观模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-161">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="350">
+            <caret line="25" column="93" lean-forward="false" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
             <folding>
-              <marker date="1513512352989" expanded="true" signature="234:275" ph="{...}" />
-              <marker date="1513512352989" expanded="true" signature="313:355" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="156:336" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="184:232" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="256:298" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="302:334" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="385:420" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/单例模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/适配器模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="242">
-            <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+          <first_editor relative-caret-position="1625">
+            <caret line="99" column="23" lean-forward="false" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
             <folding>
-              <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
-              <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
-              <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
-              <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
-              <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="384:388" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="421:454" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="489:522" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="552:556" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="591:630" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="668:707" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="746:771" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="859:893" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="937:967" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1004:1031" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1121:1156" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1200:1230" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1338:1391" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1473:1503" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1545:1674" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1612:1672" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1513566923844" expanded="true" signature="205:364" ph="{&quot;g&quot;: g...}" />
-            <marker date="1513566923844" expanded="true" signature="226:274" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="307:351" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="380:609" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="391:509" ph="{&quot;util_method1&quot;: util_method1...}" />
-            <marker date="1513566923844" expanded="true" signature="425:447" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="481:503" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="520:597" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="646:946" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="710:818" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="722:814" ph="{&quot;publicMethod&quot;: publicMethod...}" />
-            <marker date="1513566923844" expanded="true" signature="756:778" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="850:944" ph="{...}" />
-            <marker date="1513566923844" expanded="true" signature="870:907" ph="{...}" />
-          </folding>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/代理模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="341">
+            <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            <folding>
+              <marker date="1513652904905" expanded="true" signature="144:169" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="209:337" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="269:335" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="380:502" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="440:500" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/装饰着模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="544">
-            <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="379">
+            <caret line="25" column="134" lean-forward="false" selection-start-line="25" selection-start-column="134" selection-end-line="25" selection-end-column="134" />
+            <folding>
+              <marker date="1513654195289" expanded="true" signature="158:446" ph="{...}" />
+              <marker date="1513654195289" expanded="true" signature="257:409" ph="{...}" />
+              <marker date="1513654195289" expanded="true" signature="354:405" ph="{...}" />
+              <marker date="1513654195289" expanded="true" signature="413:444" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
