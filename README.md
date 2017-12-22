@@ -43,13 +43,13 @@ something about js that you should know or want to know
 - [x] [原型模式](./doc/design%20mode/原型模式.md)
 - [x] [单例模式](./doc/design%20mode/单例模式.md)
     ###### | 结构型设计模式
-- [ ] 外观模式
-- [ ] 适配器模式
-- [ ] 代理模式
-- [ ] 装饰者模式
-- [ ] 桥接模式
-- [ ] 组合模式
-- [ ] 享元模式
+- [x] [外观模式](./doc/design%20mode/外观模式.md)
+- [x] [适配器模式](./doc/design%20mode/适配器模式.md)
+- [x] [代理模式](./doc/design%20mode/代理模式.md)
+- [x] [装饰者模式](./doc/design%20mode/装饰着模式.md)
+- [x] [桥接模式](./doc/design%20mode/桥接模式.md)
+- [x] [组合模式](./doc/design%20mode/组合模式.md)
+- [x] [享元模式](./doc/design%20mode/享元模式.md)
     ###### | 行为型设计模式
 - [ ] 模板方法模式
 - [ ] 观察者模式
