@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/dataStructure/linkedList.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/dataStructure/queue.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/dataStructure/test.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/模板方法模式.md" afterPath="$PROJECT_DIR$/doc/design mode/模板方法模式.md" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/状态模式.md" afterPath="$PROJECT_DIR$/doc/design mode/状态模式.md" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/策略模式.md" afterPath="$PROJECT_DIR$/doc/design mode/策略模式.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/doc/dataStructure/stack.md" afterPath="$PROJECT_DIR$/doc/dataStructure/stack.md" />
+      <change beforePath="$PROJECT_DIR$/doc/design mode/命令模式.md" afterPath="$PROJECT_DIR$/doc/design mode/命令模式.md" />
       <change beforePath="$PROJECT_DIR$/doc/design mode/职责链模式.md" afterPath="$PROJECT_DIR$/doc/design mode/职责链模式.md" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/观察者模式.md" afterPath="$PROJECT_DIR$/doc/design mode/观察者模式.md" />
+      <change beforePath="$PROJECT_DIR$/doc/design mode/访问者模式.md" afterPath="$PROJECT_DIR$/doc/design mode/访问者模式.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="969">
-                <caret line="57" column="37" lean-forward="false" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+              <first_editor relative-caret-position="339">
+                <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -34,20 +37,101 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="职责链模式.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/design mode/职责链模式.md">
+      <file leaf-file-name="queue.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/dataStructure/queue.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+                <folding>
+                  <marker date="1514280313188" expanded="true" signature="132:569" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="187:216" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="246:276" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="304:329" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="359:394" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="422:443" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="470:500" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="528:567" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="618:1396" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="685:758" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="806:1375" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="899:955" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="961:1369" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1040:1272" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1124:1270" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1296:1359" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1455:1907" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1534:1584" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1638:1871" ph="{...}" />
+                  <marker date="1514280313188" expanded="true" signature="1673:1735" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="linkedList.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/dataStructure/linkedList.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="548">
+                <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+                <folding>
+                  <marker date="1514284697543" expanded="true" signature="338:2939" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="374:446" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="540:588" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="540:867" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="618:802" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="704:759" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="806:842" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="916:1495" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="961:1448" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1120:1198" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1202:1438" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1246:1349" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1452:1489" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1537:2095" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1581:2049" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1718:1770" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1774:1979" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="1816:1919" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2053:2089" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2134:2221" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2261:2523" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2339:2498" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2386:2431" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2556:2592" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2622:2652" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2684:2877" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2763:2848" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2908:2936" ph="{...}" />
+                  <marker date="1514284697543" expanded="true" signature="2930:2936" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doc/dataStructure/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="105" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -69,7 +153,6 @@
         <option value="$PROJECT_DIR$/doc/basic_js/原型和原型链.md" />
         <option value="$PROJECT_DIR$/doc/basic_js/JavaScript中的执行上下文和变量对象.md" />
         <option value="$PROJECT_DIR$/doc/dataStructure/array/array.md" />
-        <option value="$PROJECT_DIR$/doc/dataStructure/stack.md" />
         <option value="$PROJECT_DIR$/doc/es6/let、const命令.md" />
         <option value="$PROJECT_DIR$/doc/basic_js/JavaScript中的跨域总结.md" />
         <option value="$PROJECT_DIR$/doc/design mode/简单工厂设计模式.md" />
@@ -85,12 +168,18 @@
         <option value="$PROJECT_DIR$/doc/design mode/桥接模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/组合模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/享元模式.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/doc/design mode/模板方法模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/观察者模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/状态模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/策略模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/职责链模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/命令模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/访问者模式.md" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/stack.md" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/queue.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/test.js" />
+        <option value="$PROJECT_DIR$/doc/dataStructure/linkedList.md" />
       </list>
     </option>
   </component>
@@ -139,7 +228,7 @@
               <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
               <item name="YOU-SHOULD-KNOW-JS" type="462c0819:PsiDirectoryNode" />
               <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="design mode" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="YOU-SHOULD-KNOW-JS" type="b2602c69:ProjectViewProjectNode" />
@@ -241,7 +330,7 @@
       <workItem from="1513991932204" duration="2000" />
       <workItem from="1514007170410" duration="3269000" />
       <workItem from="1514256245302" duration="6179000" />
-      <workItem from="1514274453469" duration="8000" />
+      <workItem from="1514274453469" duration="5389000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1502772402115</created>
@@ -579,11 +668,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514267103086</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="设计模式">
+      <created>1514274465135</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1514274465135</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107818000" />
+    <option name="totallyTimeSpent" value="113199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="825" extended-state="0" />
@@ -635,9 +731,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/prototype-based.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
@@ -657,7 +750,6 @@
     <entry file="file://$PROJECT_DIR$/doc/basic_js/原型和原型链.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/JavaScript中的执行上下文和变量对象.md" />
     <entry file="file://$PROJECT_DIR$/doc/es6/let、const命令.md" />
-    <entry file="file://$PROJECT_DIR$/doc/dataStructure/stack.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/JavaScript中的跨域总结.md" />
     <entry file="file://$PROJECT_DIR$/doc/design mode/面向对象.md" />
     <entry file="file://$PROJECT_DIR$/doc/dataStructure/array.md">
@@ -903,27 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/命令模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/访问者模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/design mode/中介者模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1055,23 +1126,177 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/职责链模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1309">
+            <caret line="77" column="42" lean-forward="true" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
+            <folding>
+              <marker date="1514277827962" expanded="true" signature="694:847" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="732:790" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="794:841" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="895:1047" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="934:990" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="994:1041" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1103:1230" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1124:1173" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1177:1224" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1313:1373" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1436:1488" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1537:1838" ph="{...}" />
+              <marker date="1514277827962" expanded="true" signature="1627:1812" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/命令模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <folding>
+              <marker date="1514278622535" expanded="true" signature="208:666" ph="&lt;script/&gt;" />
+              <marker date="1514278622535" expanded="true" signature="208:667" ph="&lt;html/&gt;" />
+              <marker date="1514278622535" expanded="true" signature="296:342" ph="{...}" />
+              <marker date="1514278622535" expanded="true" signature="381:429" ph="{...}" />
+              <marker date="1514278622535" expanded="true" signature="469:519" ph="{...}" />
+              <marker date="1514278622535" expanded="true" signature="552:596" ph="{&quot;type&quot;: &quot;paobing&quot;...}" />
+              <marker date="1514278622535" expanded="true" signature="618:664" ph="{&quot;type&quot;: &quot;bubing&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/访问者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="276">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding>
+              <marker date="1514278811348" expanded="true" signature="494:589" ph="{...}" />
+              <marker date="1514278811348" expanded="true" signature="541:585" ph="{...}" />
+              <marker date="1514278811348" expanded="true" signature="627:778" ph="{...}" />
+              <marker date="1514278811348" expanded="true" signature="663:701" ph="{...}" />
+              <marker date="1514278811348" expanded="true" signature="740:774" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/stack.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="22" />
+            <folding>
+              <marker date="1514279582549" expanded="true" signature="178:625" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="230:264" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="290:319" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="346:384" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="414:450" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="477:507" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="535:556" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="584:623" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="702:1033" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="815:934" ph="{...}" />
+              <marker date="1514279582549" expanded="true" signature="963:1010" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/queue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+            <folding>
+              <marker date="1514280313188" expanded="true" signature="132:569" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="187:216" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="246:276" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="304:329" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="359:394" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="422:443" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="470:500" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="528:567" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="618:1396" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="685:758" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="806:1375" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="899:955" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="961:1369" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1040:1272" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1124:1270" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1296:1359" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1455:1907" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1534:1584" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1638:1871" ph="{...}" />
+              <marker date="1514280313188" expanded="true" signature="1673:1735" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="969">
-            <caret line="57" column="37" lean-forward="false" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <first_editor relative-caret-position="339">
+            <caret line="25" column="42" lean-forward="false" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/职责链模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="105" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/dataStructure/linkedList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="548">
+            <caret line="114" column="4" lean-forward="false" selection-start-line="114" selection-start-column="4" selection-end-line="114" selection-end-column="4" />
+            <folding>
+              <marker date="1514284697543" expanded="true" signature="338:2939" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="374:446" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="540:588" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="540:867" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="618:802" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="704:759" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="806:842" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="916:1495" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="961:1448" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1120:1198" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1202:1438" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1246:1349" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1452:1489" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1537:2095" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1581:2049" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1718:1770" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1774:1979" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="1816:1919" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2053:2089" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2134:2221" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2261:2523" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2339:2498" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2386:2431" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2556:2592" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2622:2652" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2684:2877" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2763:2848" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2908:2936" ph="{...}" />
+              <marker date="1514284697543" expanded="true" signature="2930:2936" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

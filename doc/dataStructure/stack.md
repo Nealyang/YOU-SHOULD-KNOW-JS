@@ -6,3 +6,52 @@
 而栈主要是在编程语言的编译器里用来保存变量和方法调用等。
 
 ## 创建栈
+```javascript
+function Stack() {
+  var _item = [];
+  this.push = function(element) {
+    this._item.push(element)
+  };
+  this.pop = function() {
+    return _item.pop();
+  };
+  this.peek = function() {
+    return _item[_item.length-1]
+  };
+  this.isEmpty = function() {
+    return _item.length === 0;
+  };
+  this.size = function() {
+    return _item.length;
+  };
+  this.clear = function() {
+    _item = [];
+  };
+  this.print = function() {
+    console.log(_item.toString())
+  }
+}
+```
+
+### 实际应用场景
+
+进制转换
+
+```javascript
+function baseConverter(decNumber,base) {
+  var remStack = new Stack(),
+  rem,
+  baseString = '',
+  digits = '0123456789ABCDEF';
+  
+  while (decNumber>0){
+      rem = Math.floor(decNumber % base);
+      remStack.push(rem);
+      decNumber = Math.floor(decNumber/base);
+  }
+  while(!remStack.isEmpty()){
+      baseString+=digits[remStack.pop()];
+  }
+  return baseString;
+}
+```

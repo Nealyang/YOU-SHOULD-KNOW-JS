@@ -22,8 +22,8 @@ something about js that you should know or want to know
 #### | javascript数据结构和算法
 - [x] [数组](doc/dataStructure/array.md)
 - [x] [栈](doc/dataStructure/stack.md)
-- [ ] 队列
-- [ ] 链表
+- [x] [队列](doc/dataStructure/queue.md)
+- [x] [链表](doc/dataStructure/linkedList.md)
 - [ ] 集合
 - [ ] 字典和散列表
 - [ ] 树
@@ -51,17 +51,17 @@ something about js that you should know or want to know
 - [x] [组合模式](./doc/design%20mode/组合模式.md)
 - [x] [享元模式](./doc/design%20mode/享元模式.md)
     ###### | 行为型设计模式
-- [ ] [模板方法模式](./doc/design%20mode/模板方法模式.md)
-- [ ] [观察者模式](./doc/design%20mode/观察者模式.md)
-- [ ] [状态模式](./doc/design%20mode/状态模式.md)
-- [ ] [策略模式](./doc/design%20mode/策略模式.md)
-- [ ] [职责链模式](./doc/design%20mode/职责链模式.md)
-- [ ] [命令模式](./doc/design%20mode/命令模式.md)
-- [ ] [访问者模式](./doc/design%20mode/访问者模式.md)
-- [ ] [中介者模式](./doc/design%20mode/中介者模式.md)
-- [ ] [备忘录模式](./doc/design%20mode/备忘录模式.md)
-- [ ] [迭代器模式](./doc/design%20mode/迭代器模式.md)
-- [ ] [解释器模式](./doc/design%20mode/解释器模式.md)
+- [x] [模板方法模式](./doc/design%20mode/模板方法模式.md)
+- [x] [观察者模式](./doc/design%20mode/观察者模式.md)
+- [x] [状态模式](./doc/design%20mode/状态模式.md)
+- [x] [策略模式](./doc/design%20mode/策略模式.md)
+- [x] [职责链模式](./doc/design%20mode/职责链模式.md)
+- [x] [命令模式](./doc/design%20mode/命令模式.md)
+- [x] [访问者模式](./doc/design%20mode/访问者模式.md)
+- [x] [中介者模式](./doc/design%20mode/中介者模式.md)
+- [x] [备忘录模式](./doc/design%20mode/备忘录模式.md)
+- [x] [迭代器模式](./doc/design%20mode/迭代器模式.md)
+- [x] [解释器模式](./doc/design%20mode/解释器模式.md)
     ###### | 技巧型设计模式
 - [ ] 链模式
 - [ ] 委托模式
