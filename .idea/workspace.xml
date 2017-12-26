@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/doc/design mode/享元模式.md" afterPath="$PROJECT_DIR$/doc/design mode/享元模式.md" />
       <change beforePath="$PROJECT_DIR$/doc/design mode/组合模式.md" afterPath="$PROJECT_DIR$/doc/design mode/组合模式.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,28 +18,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="组合模式.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="组合模式.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc/design mode/组合模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="879">
-                <caret line="77" column="39" lean-forward="true" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+              <first_editor relative-caret-position="582">
+                <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
                 <folding>
-                  <marker date="1514171815460" expanded="true" signature="549:597" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
-                  <marker date="1514171815460" expanded="true" signature="638:679" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="700:757" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="785:854" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="886:944" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="903:905" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="993:1098" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1141:1218" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1307:1430" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1474:1496" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1474:1569" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1615:1641" ph="{...}" />
-                  <marker date="1514171815460" expanded="true" signature="1681:1724" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="549:597" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
+                  <marker date="1514257144001" expanded="true" signature="638:679" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="700:757" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="785:854" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="886:944" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="903:905" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="993:1098" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1141:1218" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1307:1430" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1474:1496" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1474:1569" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1615:1641" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1681:1724" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1782:1849" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="1912:2005" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2043:2138" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2178:2204" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2242:2314" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2387:2481" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2524:2619" ph="{...}" />
+                  <marker date="1514257144001" expanded="true" signature="2664:2690" ph="{...}" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="享元模式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/doc/design mode/享元模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1037">
+                <caret line="101" column="60" lean-forward="false" selection-start-line="101" selection-start-column="60" selection-end-line="101" selection-end-column="60" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -83,6 +105,7 @@
         <option value="$PROJECT_DIR$/doc/design mode/桥接模式.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/doc/design mode/组合模式.md" />
+        <option value="$PROJECT_DIR$/doc/design mode/享元模式.md" />
       </list>
     </option>
   </component>
@@ -116,6 +139,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,7 +173,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,7 +253,8 @@
       <workItem from="1513690531749" duration="932000" />
       <workItem from="1513860334745" duration="2255000" />
       <workItem from="1513991932204" duration="2000" />
-      <workItem from="1514007170410" duration="2577000" />
+      <workItem from="1514007170410" duration="3269000" />
+      <workItem from="1514256245302" duration="1364000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1502772402115</created>
@@ -547,11 +571,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513909089599</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="设计模式">
+      <created>1514171852672</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1514171852672</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100939000" />
+    <option name="totallyTimeSpent" value="102995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="825" extended-state="0" />
@@ -764,16 +795,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/享元模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -807,24 +828,43 @@
     <entry file="file://$PROJECT_DIR$/doc/design mode/组合模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="879">
-            <caret line="77" column="39" lean-forward="true" selection-start-line="77" selection-start-column="39" selection-end-line="77" selection-end-column="39" />
+          <first_editor relative-caret-position="582">
+            <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
             <folding>
-              <marker date="1514171815460" expanded="true" signature="549:597" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
-              <marker date="1514171815460" expanded="true" signature="638:679" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="700:757" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="785:854" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="886:944" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="903:905" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="993:1098" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1141:1218" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1307:1430" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1474:1496" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1474:1569" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1615:1641" ph="{...}" />
-              <marker date="1514171815460" expanded="true" signature="1681:1724" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="549:597" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
+              <marker date="1514257144001" expanded="true" signature="638:679" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="700:757" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="785:854" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="886:944" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="903:905" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="993:1098" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1141:1218" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1307:1430" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1474:1496" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1474:1569" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1615:1641" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1681:1724" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1782:1849" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="1912:2005" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2043:2138" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2178:2204" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2242:2314" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2387:2481" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2524:2619" ph="{...}" />
+              <marker date="1514257144001" expanded="true" signature="2664:2690" ph="{...}" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/享元模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1037">
+            <caret line="101" column="60" lean-forward="false" selection-start-line="101" selection-start-column="60" selection-end-line="101" selection-end-column="60" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
