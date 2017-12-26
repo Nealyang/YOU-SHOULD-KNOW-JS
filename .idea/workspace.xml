@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7bbebf-9f63-4217-b16c-461711838cbb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/中介者模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/命令模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/备忘录模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/模板方法模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/状态模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/策略模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/职责链模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/观察者模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/解释器模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/访问者模式.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/doc/design mode/迭代器模式.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/享元模式.md" afterPath="$PROJECT_DIR$/doc/design mode/享元模式.md" />
-      <change beforePath="$PROJECT_DIR$/doc/design mode/组合模式.md" afterPath="$PROJECT_DIR$/doc/design mode/组合模式.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,48 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="组合模式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/design mode/组合模式.md">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="582">
-                <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
-                <folding>
-                  <marker date="1514257144001" expanded="true" signature="549:597" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
-                  <marker date="1514257144001" expanded="true" signature="638:679" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="700:757" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="785:854" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="886:944" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="903:905" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="993:1098" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1141:1218" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1307:1430" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1474:1496" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1474:1569" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1615:1641" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1681:1724" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1782:1849" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="1912:2005" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2043:2138" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2178:2204" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2242:2314" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2387:2481" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2524:2619" ph="{...}" />
-                  <marker date="1514257144001" expanded="true" signature="2664:2690" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="享元模式.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/design mode/享元模式.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1037">
-                <caret line="101" column="60" lean-forward="false" selection-start-line="101" selection-start-column="60" selection-end-line="101" selection-end-column="60" />
+              <first_editor relative-caret-position="824">
+                <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,9 +77,9 @@
         <option value="$PROJECT_DIR$/doc/design mode/代理模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/装饰着模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/桥接模式.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/doc/design mode/组合模式.md" />
         <option value="$PROJECT_DIR$/doc/design mode/享元模式.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -184,13 +158,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/doc/dataStructure" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/pay" />
       <recent name="$PROJECT_DIR$/doc/basic_js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc/design mode" />
+      <recent name="$PROJECT_DIR$/doc/dataStructure" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,7 +229,7 @@
       <workItem from="1513860334745" duration="2255000" />
       <workItem from="1513991932204" duration="2000" />
       <workItem from="1514007170410" duration="3269000" />
-      <workItem from="1514256245302" duration="1364000" />
+      <workItem from="1514256245302" duration="2398000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1502772402115</created>
@@ -578,11 +553,18 @@
       <option name="project" value="LOCAL" />
       <updated>1514171852672</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="设计模式">
+      <created>1514258953895</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1514258953895</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102995000" />
+    <option name="totallyTimeSpent" value="104029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="825" extended-state="0" />
@@ -634,17 +616,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/谈谈闭包.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/忍者级别的操作函数.md" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/doc/basic_js/夯实JS系列--变量、作用域和内存问题.md" />
     <entry file="file://$PROJECT_DIR$/doc/basic_js/prototype-based.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/README.md" />
@@ -735,26 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/外观模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="25" column="93" lean-forward="false" selection-start-line="25" selection-start-column="93" selection-end-line="25" selection-end-column="93" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/装饰着模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="250">
-            <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/design mode/工厂方法模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -785,21 +736,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/桥接模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/外观模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <first_editor relative-caret-position="425">
+            <caret line="25" column="76" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="93" />
+            <folding>
+              <marker date="1513649931658" expanded="true" signature="156:336" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="184:232" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="256:298" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="302:334" ph="{...}" />
+              <marker date="1513649931658" expanded="true" signature="385:420" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/适配器模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="370">
-            <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <first_editor relative-caret-position="482">
+            <caret line="86" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="100" selection-end-column="3" />
+            <folding>
+              <marker date="1513651075701" expanded="true" signature="384:388" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="421:454" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="489:522" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="552:556" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="591:630" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="668:707" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="746:771" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="859:893" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="937:967" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1004:1031" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1121:1156" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1200:1230" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1338:1391" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1473:1503" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1545:1674" ph="{...}" />
+              <marker date="1513651075701" expanded="true" signature="1612:1672" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -809,17 +785,55 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="531">
-            <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+            <caret line="35" column="36" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <folding>
+              <marker date="1513652904905" expanded="true" signature="144:169" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="209:337" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="269:335" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="380:502" ph="{...}" />
+              <marker date="1513652904905" expanded="true" signature="440:500" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doc/design mode/适配器模式.md">
+    <entry file="file://$PROJECT_DIR$/doc/design mode/装饰着模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1683">
-            <caret line="99" column="23" lean-forward="false" selection-start-line="99" selection-start-column="23" selection-end-line="99" selection-end-column="23" />
+          <first_editor relative-caret-position="340">
+            <caret line="20" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="134" />
+            <folding>
+              <marker date="1513691247743" expanded="true" signature="160:448" ph="{...}" />
+              <marker date="1513691247743" expanded="true" signature="259:411" ph="{...}" />
+              <marker date="1513691247743" expanded="true" signature="356:407" ph="{...}" />
+              <marker date="1513691247743" expanded="true" signature="415:446" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/桥接模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="21" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="3" />
+            <folding>
+              <marker date="1513862163099" expanded="true" signature="317:348" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="382:407" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="435:457" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="492:517" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="546:568" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="605:631" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="658:679" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="713:741" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="784:847" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="881:937" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="962:1025" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="1062:1105" ph="{...}" />
+              <marker date="1513862163099" expanded="true" signature="1106:1145" ph="//..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -829,7 +843,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="582">
-            <caret line="120" column="38" lean-forward="false" selection-start-line="120" selection-start-column="38" selection-end-line="120" selection-end-column="38" />
+            <caret line="120" column="38" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="38" />
             <folding>
               <marker date="1514257144001" expanded="true" signature="549:597" ph="{...}" />
               <marker date="1514257144001" expanded="true" signature="616:857" ph="{&quot;init&quot;: init...}" />
@@ -862,8 +876,140 @@
     <entry file="file://$PROJECT_DIR$/doc/design mode/享元模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1037">
-            <caret line="101" column="60" lean-forward="false" selection-start-line="101" selection-start-column="60" selection-end-line="101" selection-end-column="60" />
+          <first_editor relative-caret-position="225">
+            <caret line="78" column="33" lean-forward="true" selection-start-line="78" selection-start-column="33" selection-end-line="78" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/观察者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/模板方法模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/状态模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/策略模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/职责链模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/命令模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/访问者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/中介者模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/备忘录模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/迭代器模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/design mode/解释器模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="824">
+            <caret line="71" column="11" lean-forward="true" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="11" />
             <folding />
           </first_editor>
           <second_editor />
