@@ -24,8 +24,8 @@ something about js that you should know or want to know
 - [x] [栈](doc/dataStructure/stack.md)
 - [x] [队列](doc/dataStructure/queue.md)
 - [x] [链表](doc/dataStructure/linkedList.md)
-- [ ] 集合
-- [ ] 字典和散列表
+- [x] [集合](doc/dataStructure/Set.md)
+- [x] [字典和散列表](doc/dataStructure/Map&HashMap.md)
 - [ ] 树
 - [ ] 图
 
