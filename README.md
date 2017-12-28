@@ -26,7 +26,7 @@ something about js that you should know or want to know
 - [x] [链表](doc/dataStructure/linkedList.md)
 - [x] [集合](doc/dataStructure/Set.md)
 - [x] [字典和散列表](doc/dataStructure/Map&HashMap.md)
-- [ ] 树
+- [x] [树](doc/dataStructure/tree.md)
 - [ ] 图
 
 - [ ] 排序和搜索算法
