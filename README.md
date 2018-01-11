@@ -83,25 +83,25 @@ something about js that you should know or want to know
 
 #### | 是的，我也搞了ES6
 
-- [ ] let、const命令
-- [ ] 变量的解构赋值
-- [ ] 字符串的扩展
-- [ ] 数值的扩展
-- [ ] 数组的扩展
-- [ ] 函数的扩展
-- [ ] 对象的扩展
-- [ ] .Symbol
-- [ ] .Proxy 和 Reflect
-- [ ] 二进制数组
-- [ ] .Set 和 Map 数据结构
-- [ ] .Iterator和for...of循环
-- [ ] .Promise对象
-- [ ] .异步操作和Async函数
-- [ ] .Class
-- [ ] .修饰器
-- [ ] .Module
-- [ ] .编程风格
-- [ ] 读懂 ECMAScript 规格
+- [x] [let、const命令](https://github.com/Nealyang/ES6_pratice)
+- [x] [变量的解构赋值](https://github.com/Nealyang/ES6_pratice)
+- [x] [字符串的扩展](https://github.com/Nealyang/ES6_pratice)
+- [x] [数值的扩展](https://github.com/Nealyang/ES6_pratice)
+- [x] [数组的扩展](https://github.com/Nealyang/ES6_pratice)
+- [x] [函数的扩展](https://github.com/Nealyang/ES6_pratice)
+- [x] [对象的扩展](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Symbol](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Proxy 和 Reflect](https://github.com/Nealyang/ES6_pratice)
+- [x] [二进制数组](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Set 和 Map 数据结构](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Iterator和for...of循环](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Promise对象](https://github.com/Nealyang/ES6_pratice)
+- [x] [.异步操作和Async函数](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Class](https://github.com/Nealyang/ES6_pratice)
+- [x] [.修饰器](https://github.com/Nealyang/ES6_pratice)
+- [x] [.Module](https://github.com/Nealyang/ES6_pratice)
+- [x] [.编程风格](https://github.com/Nealyang/ES6_pratice)
+- [x] [读懂 ECMAScript 规格](https://github.com/Nealyang/ES6_pratice)
 
 
 ## 交流（QQ群）
