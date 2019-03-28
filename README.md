@@ -1,6 +1,8 @@
 # YOU-SHOULD-KNOW-JS
 something about js that you should know or want to know
 
+# 移步隔壁：[Personal blog](https://github.com/Nealyang/PersonalBlog)
+
 
 #### | javascript重点总结
 
